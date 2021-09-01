@@ -7,7 +7,7 @@
 따라서 산림복지를 크게 좁은 의미와 넓은 의미 두가지로 구분하여 각 의미를 이해하고, 
 
 - [2021 COCO 발표 html]()
-- [2021 COCO 발표 pdf]() (위와 내용 동일)
+- [2021 COCO 발표 pdf](https://github.com/JeongYunLee/Forest_Welfare/blob/main/presentation/2021%20COCO_presentation%20(pdf)/2021%20COCO.pdf) (위와 내용 동일)
 - [분석 코드 및 사용 데이터]()
 
 발표자료는 html 형식이지만, 화면 사이즈에 따라 이미지 및 도표의 사이즈가 자동 조절되지 않아 깨질 가능성이 있으므로 해당 파일과 동일한 pdf도 첨부합니다. 
