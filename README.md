@@ -15,7 +15,7 @@
 <br>
 
 - [2021 COCO 발표 html](https://github.com/JeongYunLee/Forest_Welfare/tree/main/presentation/2021%20COCO%20-%20presentation%20(html)/2021%20COCO)
-- [2021 COCO 발표 pdf](https://github.com/JeongYunLee/Forest_Welfare/tree/main/presentation/2021%20COCO_presentation%20(pdf)) (위와 내용 동일)
+- [2021 COCO 발표 pdf](https://github.com/JeongYunLee/Forest_Welfare/tree/main/presentation/2021%20COCO%20-%20presentation%20(pdf)) (위와 내용 동일)
 - [분석 코드 및 사용 데이터](https://github.com/JeongYunLee/Forest_Welfare/tree/main/analysis)
 - [최종 분석 보고서]() (9월 내에 업로드 예정) 
 
